@@ -1,4 +1,4 @@
-# ARTSS
+# Autonomous Recylable Trash Sorting System (ARTSS)
 
 ## Introduction
 
