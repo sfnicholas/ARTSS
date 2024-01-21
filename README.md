@@ -1,5 +1,37 @@
 # ARTSS
 
+## Introduction
+
+### Awards
+
+ARTSS has been recognized with several accolades:
+
+- People’s Choice Award, Robofest 2019 World Championship Exhibition Senior
+- Best Design Award, 20th Consumer Cultural Study Award: Innovative Design for Sustainable Consumption
+- Best Innovation Award, 20th Consumer Cultural Study Award: Innovative Design for Sustainable Consumption
+- Exhibitions: London BETT Show, Learning and Teaching Expo 2018
+
+### Background
+In recent years, Hong Kong has struggled with recycling efficiency. With three primary types of recycling bins—blue for paper, brown for plastic, and yellow for aluminium cans—the system lacks a provision for tin cans. Observations from liberal studies courses have shown that the recycling habits of Hong Kong's citizens are not effective, with recyclable materials often not being sorted properly, exacerbating the situation.
+
+### Aim
+The Automated Recycling Trash Sorting System (ARTSS) was developed with the goal of improving the recycling process in Hong Kong, making it more user-friendly and automating the sorting stage for recycling companies. By addressing issues such as the inaccurate separation of recyclables by citizens and the costly sorting process for the recycling industry, ARTSS aims to provide a comprehensive solution to enhance sustainability efforts in the region.
+
+### Project Timeline
+This project was completed over a two-year period from March 2018 to March 2020. During this time, the team successfully designed, built, and tested the ARTSS, garnering accolades for its innovative approach to recycling.
+
+## Features
+
+ARTSS offers a variety of features to automate and improve the recycling process:
+
+- **Size Sorting**: It sorts out completely non-recyclable trash based on smaller sizes.
+- **Metal Separation**: Using a combination of metal detection and magnetism, it can sort tin cans from aluminium cans, which are often incorrectly grouped together.
+- **Plastic Sorting**: The system identifies plastic materials, such as bottles, based on their electrical insulation characteristics.
+- **Default Sorting**: All other inserted objects are sorted as aluminium cans, ensuring maximal recycling efficiency.
+
+### Images
+
+
 ## Installation
 
 To set up the ARTSS system, follow these steps:
@@ -25,16 +57,7 @@ Once the ARTSS system is installed, initiate the sorting process with the follow
 3. **Insert waste items**: Add waste items into the system. The ARTSS will sort plastic bottles, aluminum cans, and tin cans into their corresponding recycling bins.
 
 4. **Maintenance checks**: Regularly perform maintenance checks as detailed in the handbook to ensure the system continues to function optimally.
-
-## Features
-
-ARTSS boasts several innovative features:
-
-- **Non-recyclable Trash Sorting**: Smaller non-recyclable items are sorted out due to their size.
-- **Metal Separation**: Differentiates between aluminum and tin cans using electromagnetic properties.
-- **Plastic Identification**: Sorts plastic materials using an electric insulation characteristic.
-- **Adaptable Sorting**: Any unsorted objects are defaulted to aluminum can sorting.
-
+   
 ## Design
 
 ![ARTSS System Diagram](/path/to/image.png)
@@ -60,15 +83,6 @@ Refer to the ARTSS Handbook for detailed troubleshooting steps for each componen
 - **Supervisors**: Mr. Jerome Tam, Mr. Eric Chen
 - **Project Leader**: Enoch Cheng
 - **Team Members**: Karen Zhang, Jun Chan, Cheuck Kin Chan, Aidan Chan, Joshua Yung
-
-## Awards
-
-ARTSS has been recognized with several accolades:
-
-- People’s Choice Award, Robofest 2019 World Championship Exhibition Senior
-- Best Design Award, 20th Consumer Cultural Study Award: Innovative Design for Sustainable Consumption
-- Best Innovation Award, 20th Consumer Cultural Study Award: Innovative Design for Sustainable Consumption
-- Exhibitions: London BETT Show, Learning and Teaching Expo 2018
 
 ## License
 
