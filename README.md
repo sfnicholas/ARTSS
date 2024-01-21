@@ -2,6 +2,8 @@
 
 ## Introduction
 
+This is a project I completed in secondary school between May 2018 to to March 2020, where we built an Autonomous Recylclale Trash Sorting System. 
+
 ### Awards
 
 ARTSS has been recognized with several accolades:
@@ -16,9 +18,6 @@ In recent years, Hong Kong has struggled with recycling efficiency. With three p
 
 ### Aim
 The Automated Recycling Trash Sorting System (ARTSS) was developed with the goal of improving the recycling process in Hong Kong, making it more user-friendly and automating the sorting stage for recycling companies. By addressing issues such as the inaccurate separation of recyclables by citizens and the costly sorting process for the recycling industry, ARTSS aims to provide a comprehensive solution to enhance sustainability efforts in the region.
-
-### Project Timeline
-This project was completed over a two-year period from March 2018 to March 2020. During this time, the team successfully designed, built, and tested the ARTSS, garnering accolades for its innovative approach to recycling.
 
 ## Features
 
