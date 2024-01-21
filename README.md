@@ -28,6 +28,17 @@ ARTSS offers a variety of features to automate and improve the recycling process
 - **Plastic Sorting**: The system identifies plastic materials, such as bottles, based on their electrical insulation characteristics.
 - **Default Sorting**: All other inserted objects are sorted as aluminium cans, ensuring maximal recycling efficiency.
 
+## Technologies Used
+
+The ARTSS project utilized a range of technologies to achieve its recycling automation goals:
+
+- **Arduino**: The core of the system's control logic was programmed using Arduino, a versatile open-source electronics platform based on easy-to-use hardware and software.
+
+- **Tinkercad**: For 3D modeling, Tinkercad was employed. This browser-based program allowed for the creation and editing of the digital prototypes for various components of ARTSS.
+
+- **3D Printing**: Critical components of ARTSS were brought to life using 3D printing technology. This allowed for rapid prototyping and testing of parts, ensuring that each piece met the necessary specifications for optimal performance.
+
+
 ### Images
 
 
