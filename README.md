@@ -83,7 +83,3 @@ Refer to the ARTSS Handbook for detailed troubleshooting steps for each componen
 - **Project Leader**: Enoch Cheng
 - **Team Members**: Karen Zhang, Jun Chan, Cheuck Kin Chan, Aidan Chan, Joshua Yung
 
-## License
-
-This project is licensed under the [LICENSE NAME] License - see the LICENSE.md file for details.
-
