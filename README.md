@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a project I completed in secondary school between May 2018 to to March 2020, where we built an Autonomous Recyclable Trash Sorting System built by arduiono. 
+This is a award winning project I completed in secondary school between May 2018 to to March 2020 with my friends, where we built an Autonomous Recyclable Trash Sorting System built by using arduino. 
 
 ### Awards
 
