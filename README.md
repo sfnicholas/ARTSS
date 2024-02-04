@@ -9,6 +9,7 @@ This is a award winning project I completed in secondary school between May 2018
 ARTSS has been recognized with several accolades:
 
 - People’s Choice Award, Robofest 2019 World Championship Exhibition Senior
+- 2nd Runner Up in Robofest 2019 Hong Kong Exhibition Senior (2019)
 - Best Design Award, 20th Consumer Cultural Study Award: Innovative Design for Sustainable Consumption
 - Best Innovation Award, 20th Consumer Cultural Study Award: Innovative Design for Sustainable Consumption
 - Exhibitions: London BETT Show, Learning and Teaching Expo 2018
