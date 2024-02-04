@@ -41,21 +41,6 @@ The ARTSS project utilized a range of technologies to achieve its recycling auto
 
 ### Images
 
-
-## Installation
-
-To set up the ARTSS system, follow these steps:
-
-1. **Assemble the hardware**: Connect the Arduino board, ultrasonic sensor, metal detector, servo motors, and reed switch according to the wiring diagram provided in the ARTSS Handbook.
-
-2. **Check wire conditions**: Use a multimeter to ensure all wires are in good condition and can transmit electricity properly, as outlined in the handbook.
-
-3. **Load the Arduino sketch**: Connect your computer to the Arduino board using the appropriate cable, open the Arduino IDE, and upload the provided `.ino` file to the board.
-
-4. **Test individual components**: Follow the testing procedures in the ARTSS Handbook to verify the functionality of each component, including the ultrasonic sensor, metal detector, servo motors, and reed switch.
-
-5. **Finalize assembly**: Secure all components in their designated positions as per the design specifications, ensuring that all moving parts are free of obstructions and the system is stable.
-
 ## Usage
 
 Once the ARTSS system is installed, initiate the sorting process with the following steps:
